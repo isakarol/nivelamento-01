@@ -1,0 +1,19 @@
+body {background-color: rgb(255, 0, 0);
+}
+h1 {text-align: center;
+    font-size: 250%;
+     color:rgb(0, 2, 12);}
+#dinheiro {width: 24%;
+    margin-left: 25%;
+}
+#aposta {width: 18%;
+    margin-right: 25%;
+}
+h2 {font-size: 200%;
+    text-align: center;
+    color:rgb(0, 0, 0);
+}
+h3 {font-size: 140%;
+    text-align: center;
+    color:rgba(4, 1, 151, 0.616);
+}
